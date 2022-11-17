@@ -1,0 +1,83 @@
+SCHOOLS
+[0] UofO
+[1] UofA
+[2] OT
+[3] UofT
+[4] UBC
+[5] QU
+[6] YU
+[7] CU
+[8] MU
+[9] UofW
+
+STUDENTS
+[0] Tom
+[1] Sara
+[2] Ali
+[3] Ying
+[4] Amit
+[5] Megan
+[6] Alan
+[7] Layla
+[8] Jane
+[9] Alex
+
+SCHOOL-PREFERENCES
+['Tom', 'Ying', 'Alex', 'Alan', 'Tom', 'Jane', 'Sara', 'Ying', 'Tom', 'Jane']
+['Alex', 'Alex', 'Jane', 'Amit', 'Layla', 'Sara', 'Jane', 'Tom', 'Alan', 'Ali']
+['Sara', 'Megan', 'Megan', 'Ying', 'Alex', 'Amit', 'Alex', 'Alan', 'Layla', 'Amit']
+['Jane', 'Amit', 'Ying', 'Megan', 'Megan', 'Tom', 'Ying', 'Layla', 'Megan', 'Megan']
+['Layla', 'Sara', 'Sara', 'Ali', 'Jane', 'Ali', 'Ali', 'Ali', 'Sara', 'Layla']
+['Ying', 'Jane', 'Layla', 'Sara', 'Sara', 'Alan', 'Layla', 'Megan', 'Alex', 'Ying']
+['Amit', 'Tom', 'Ali', 'Tom', 'Ali', 'Ying', 'Alan', 'Sara', 'Jane', 'Tom']
+['Alan', 'Alan', 'Tom', 'Alex', 'Alan', 'Layla', 'Megan', 'Amit', 'Ali', 'Alex']
+['Ali', 'Layla', 'Amit', 'Layla', 'Ying', 'Megan', 'Tom', 'Jane', 'Amit', 'Sara']
+['Megan', 'Ali', 'Alan', 'Jane', 'Amit', 'Alex', 'Amit', 'Alex', 'Ying', 'Alan']
+
+STUDENT-PREFERENCES
+['UBC', 'UofO', 'QU', 'MU', 'UofT', 'YU', 'MU', 'UofT', 'OT', 'UofW']
+['UofT', 'QU', 'UofT', 'OT', 'YU', 'UofW', 'YU', 'UofA', 'UofO', 'UofO']
+['UofW', 'UofT', 'CU', 'UofA', 'UofA', 'UBC', 'CU', 'MU', 'UofA', 'OT']
+['UofA', 'MU', 'OT', 'UBC', 'OT', 'UofT', 'UofO', 'CU', 'MU', 'MU']
+['QU', 'UofA', 'UofO', 'QU', 'UBC', 'QU', 'UofA', 'YU', 'YU', 'YU']
+['OT', 'UofW', 'MU', 'CU', 'UofW', 'UofO', 'UofT', 'UBC', 'UofT', 'UofT']
+['MU', 'OT', 'UofA', 'UofW', 'QU', 'MU', 'UBC', 'QU', 'QU', 'UBC']
+['UofO', 'YU', 'YU', 'YU', 'UofO', 'OT', 'QU', 'UofW', 'UBC', 'CU']
+['YU', 'CU', 'UBC', 'UofT', 'MU', 'CU', 'OT', 'OT', 'UofW', 'QU']
+['CU', 'UBC', 'UofW', 'UofO', 'CU', 'UofA', 'UofW', 'UofO', 'CU', 'UofA']
+
+SCHOOL-PREFERENCES (AS INTEGERS)
+[0, 3, 9, 6, 0, 8, 1, 3, 0, 8]
+[9, 9, 8, 4, 7, 1, 8, 0, 6, 2]
+[1, 5, 5, 3, 9, 4, 9, 6, 7, 4]
+[8, 4, 3, 5, 5, 0, 3, 7, 5, 5]
+[7, 1, 1, 2, 8, 2, 2, 2, 1, 7]
+[3, 8, 7, 1, 1, 6, 7, 5, 9, 3]
+[4, 0, 2, 0, 2, 3, 6, 1, 8, 0]
+[6, 6, 0, 9, 6, 7, 5, 4, 2, 9]
+[2, 7, 4, 7, 3, 5, 0, 8, 4, 1]
+[5, 2, 6, 8, 4, 9, 4, 9, 3, 6]
+
+STUDENT-PREFERENCES (AS INTEGERS)
+[4, 0, 5, 8, 3, 6, 8, 3, 2, 9]
+[3, 5, 3, 2, 6, 9, 6, 1, 0, 0]
+[9, 3, 7, 1, 1, 4, 7, 8, 1, 2]
+[1, 8, 2, 4, 2, 3, 0, 7, 8, 8]
+[5, 1, 0, 5, 4, 5, 1, 6, 6, 6]
+[2, 9, 8, 7, 9, 0, 3, 4, 3, 3]
+[8, 2, 1, 9, 5, 8, 4, 5, 5, 4]
+[0, 6, 6, 6, 0, 2, 5, 9, 4, 7]
+[6, 7, 4, 3, 8, 7, 2, 2, 9, 5]
+[7, 4, 9, 0, 7, 1, 9, 0, 7, 1]
+
+BEST MATCHES:
+['UofA', 'Ying']
+['UBC', 'Tom']
+['UofO', 'Alex']
+['MU', 'Alan']
+['OT', 'Jane']
+['UofT', 'Amit']
+['QU', 'Sara']
+['CU', 'Layla']
+['YU', 'Ali']
+['UofW', 'Megan']
